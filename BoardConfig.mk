@@ -21,6 +21,8 @@ TARGET_OTA_ASSERT_DEVICE := SM-N900P,hltespr
 TARGET_INIT_VENDOR_LIB := libinit_msm
 TARGET_LIBINIT_DEFINES_FILE := device/samsung/hltespr/init/init_hlte.c
 TARGET_UNIFIED_DEVICE := true
+# Kernel
+TARGET_KERNEL_VARIANT_CONFIG := msm8974_sec_hlte_spr_defconfig
 
 # Partitions
 BOARD_BOOTIMAGE_PARTITION_SIZE := 11534336
