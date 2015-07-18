@@ -1,1 +1,2 @@
-add_lunch_combo eos_hltespr-eng
+add_lunch_combo bliss_hltespr-eng
+add_lunch_combo bliss_hltespr-userdebug
