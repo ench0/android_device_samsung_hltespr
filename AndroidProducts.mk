@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/bliss_hlte.mk
+    $(LOCAL_DIR)/bliss_hltespr.mk
